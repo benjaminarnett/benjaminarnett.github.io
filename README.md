@@ -1,6 +1,6 @@
 My personal website.
 
-TODO
+TODO:
 - resume/cv
 - blog
 - code server
