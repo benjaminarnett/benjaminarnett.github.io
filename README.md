@@ -1,2 +1,6 @@
-# benjaminarnett.github.io
-My website
+My personal website.
+
+TODO
+- resume/cv
+- blog
+- code server
