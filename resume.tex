@@ -1,0 +1,101 @@
+\documentclass{article}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\thispagestyle{empty}
+
+\titleformat{\section}
+{\Large\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\large\bfseries}
+{}
+{0em}
+{}
+
+\titlespacing*{\subsection}
+{0pt}{*1}{*.1}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{\hspace{.5em}}
+{0em}
+{}[ ---]
+
+\titlespacing{\subsubsection} 
+{0em}{.25em}{.5em}
+
+\renewcommand{\maketitle}{
+\begin{center}
+{\huge\bfseries\theauthor}
+
+\vspace{.25em}
+
+barnett@gmu.edu \\
+(571)598-0306 \\ 
+3803 King Arthur Rd, Annandale, VA
+
+\end{center}
+}
+
+
+\begin{document}
+
+\title{R\'esum\'e}
+\author{Benjamin Arnett}
+
+\maketitle
+
+\section{Skills}
+
+\subsection{Languages}
+
+\subsubsection{Programming}
+
+Python, JavaScript
+
+\subsubsection{Markup}
+
+HTML, CSS
+
+\subsection{Programs}
+
+\subsubsection{Version Control}
+
+Git
+
+\subsubsection{Office Suites}
+
+Microsoft Office, Libre Office
+
+\section{Education}
+
+\subsection{George Mason University}
+\emph{Information Technology}\hfill Graduation Expected in December 2023\\CGPA: 3.52
+
+
+\subsection{Falls Church High School}
+Advanced Studies Diploma\hfill Graduated in June 2018
+
+\section{Current Projects}
+
+sqlite-editor \par
+SQLite editor with web interface
+\\
+kandoo \par
+Kanban-based task/project manager  
+
+\section{Hobbies}
+
+\begin{itemize}
+
+\item Free software (Linux, virt-manager, etc.)
+\item Learning web technologies (React, Node.js) 
+
+\end{itemize}
+
+\end{document}
