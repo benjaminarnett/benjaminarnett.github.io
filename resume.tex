@@ -1,0 +1,94 @@
+\documentclass{article}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\thispagestyle{empty}
+
+\titleformat{\section}
+{\Large\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\large\bfseries}
+{}
+{0em}
+{}
+
+\titlespacing*{\subsection}
+{0pt}{*1}{*.1}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{\hspace{.5em}}
+{0em}
+{}[ ---]
+
+\titlespacing{\subsubsection} 
+{0em}{.25em}{.5em}
+
+\renewcommand{\maketitle}{
+\begin{center}
+{\huge\bfseries\theauthor}
+
+\vspace{.25em}
+
+barnett@gmu.edu \\
+Annandale, VA 22003
+
+\end{center}
+}
+
+
+\begin{document}
+
+\title{R\'esum\'e}
+\author{Benjamin Arnett}
+
+\maketitle
+
+\section{Experience}
+\subsection{Skywide Logic}
+Web Developer Intern\hfill May 2023 - August 2023\par
+Edited home page image and search field using WordPress plugin\par
+Evaluated multiple API plugins for importing job data\par
+Created subdomain for testing via hosting provider\par
+Troubleshot website error (plugin conflict)
+
+
+\section{Projects}
+
+sqlite-editor \par
+create, delete, and search SQLite databases via a web interface
+
+\section{Skills}
+
+
+
+\subsubsection{Programming}
+
+JavaScript, Python
+
+\subsubsection{Markup}
+
+HTML, CSS
+
+\subsubsection{Version Control}
+
+Git
+
+\section{Education}
+
+\subsection{George Mason University}
+\emph{Information Technology}\hfill Graduation Expected December 2023\\CGPA: 3.56
+
+
+\subsection{Falls Church High School}
+Advanced Studies Diploma\hfill Graduated June 2018
+
+
+
+
+\end{document}
