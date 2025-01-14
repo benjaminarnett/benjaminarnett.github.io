@@ -1,0 +1,18 @@
+body {
+	margin: 0 30%;
+	font-family: monospace;
+}
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+a {
+	text-decoration: underline;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+}
+img[alt=profile-image] { 
+	width: 200px; 
+}

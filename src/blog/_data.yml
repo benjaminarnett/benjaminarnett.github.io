@@ -1,0 +1,9 @@
+layout: layouts/post.vto
+date: Git Last Modified
+nav:
+  - name: Home
+    url: /
+  - name: Blog
+    url: /blog/
+tags:
+  - post

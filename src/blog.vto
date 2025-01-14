@@ -1,0 +1,13 @@
+---
+title: Blog
+nav:
+  - name: Home
+    url: /
+url: /blog/
+---
+
+<ul>
+  {{ for post of search.pages("post", "date=desc") }}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {{ /for }}
+</ul>
