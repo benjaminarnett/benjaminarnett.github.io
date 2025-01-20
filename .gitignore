@@ -1,3 +1,5 @@
 _site
 _cache
 _vendor
+/src/blog/drafts/*
+/src/blog/private

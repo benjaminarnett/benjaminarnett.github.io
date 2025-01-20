@@ -8,6 +8,4 @@ nav:
 ---
 # Welcome to my website
 
-This is my first page using **Lume,** a static site generator for Deno.
-
-I hope you enjoy it.
+This is the website of Benjamin Arnett. Included are an About Me page and my blog.
