@@ -5,14 +5,15 @@ title: About Me
 
 ![profile-image](/assets/img/profile-image.jpg)
 
-Hello, I'm Benjamin Arnett, an aspiring web developer with a passion for creating efficient, intuitive applications. When I'm not coding, I enjoy exploring new technologies and drawing inspiration from the work of others.     
+Hello, I'm Benjamin Arnett, a recent graduate with a B.S. in Information Technology, eager to build a career in IT. Passionate about troubleshooting, system management, and improving technology solutions, I’m always looking to expand my skills and take on new challenges. Open to opportunities in IT support, networking, and system administration.   
+
 You'll find my email address and related links below.
+
+[benjaminarnett7@gmail.com](mailto:benjaminarnett7@gmail.com)  
 
 [Github](https://github.com/benjaminarnett)     
 [LinkedIn](https://www.linkedin.com/in/benjamin-arnett/)     
-[Resume](/assets/pdf/Benjamin_Arnett_Resume.pdf)
 
-[benjaminarnett7@gmail.com](mailto:benjaminarnett7@gmail.com)  
 
 
 
